@@ -949,7 +949,9 @@ span.popular-tag{
 
 /*************************one page *****************/
 
-
+.padded {
+    padding: 0 120px;
+}
 
 .padding-80{
     padding: 80px 0;
